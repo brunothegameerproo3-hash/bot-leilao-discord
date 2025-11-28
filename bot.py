@@ -15,7 +15,6 @@ DISCORD_TOKEN = os.environ['DISCORD_TOKEN']
 
 
 # Configuracoes
-DISCORD_TOKEN = os.environ['DISCORD_TOKEN']
 ITEMS_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vSREA4EiAWWgU3jR1u3h4WfPYosHgd5Qo7425-6UxAbFXF8TrPC6a_KcrWHzX8URFZcQ4Dk_-Wx4MSR/pub?gid=0&single=true&output=tsv"
 PONTOS_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vR2plzZgfqRFp3F3q7hZtCznsag8PymIDXxbq9pUWGAX48g6YabrdmZ_Yfsod3RkVuhoiYPMkF-zLDu/pub?gid=0&single=true&output=csv"
 
